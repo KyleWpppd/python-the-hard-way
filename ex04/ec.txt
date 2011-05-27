@@ -1,0 +1,11 @@
+1. We use 4.0 to be floating point. This is actually a bad usage of floating point, since you cannot put .43636 people in a car. 
+
+2. Floating point is a number with a decimal, represented internally in the computer (generally) in a different manner than an integer. A FP number has a sign, exponent and mantissa. 
+
+3. Done in source.
+
+4. Now since everything in python is an object, a variable is just a named pointer to the object, if i understand it correctly. 
+
+5. Got it _
+
+6. ...
